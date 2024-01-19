@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "VS",
+		"path": "../../../../VS"
+	},
+	{
+		"path": "../../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Projects",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "cSpell.ignoreWords": ["Tajribam"],
+    "cSpell.words": ["haqingizda", "Tajribam"]
+  }
+}
